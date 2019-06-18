@@ -38,6 +38,7 @@
     ],
     "devDependencies": {
         "eslint-config-equimper": "^2.2.2",
-        "eslint-config-prettier": "^5.0.0"
+        "eslint-config-prettier": "^5.0.0",
+        "pre-commit": "^1.2.2"
     }
 }
